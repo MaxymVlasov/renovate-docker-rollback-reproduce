@@ -1,1 +1,1 @@
-FROM envoyproxy/envoy:v1.32.2@sha256:2dc1b15d5ee218ae46a5f580375abde14738e3b06ebd78ead2c8e45d17424fa0
+FROM envoyproxy/envoy:v1.31-latest@sha256:2bc13da52fa0bb7a6f3aa25e75fc00dfa75834776bd59b7d5069e2974471e323
