@@ -1,0 +1,9 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended",
+    // Create PRs to roll back versions
+    // if the current version is not found in the registry.                     | https://docs.renovatebot.com/configuration-options/#rollbackprs
+    "rollbackPrs": true,
+  ]
+}
